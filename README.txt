@@ -19,7 +19,7 @@ Dataset:
 File Structure:
 ===============
 
-filea.ipynb - DATA PREPROCESSING
+a1936769_assignment1A.ipynb - DATA PREPROCESSING
 --------------------------------
 • EEG data loading (BDF/EDF files)
 • Signal quality assessment
@@ -32,7 +32,7 @@ filea.ipynb - DATA PREPROCESSING
 • Data cleaning and standardization
 • Sampling rate harmonization (256 Hz vs 500 Hz)
 
-fileb.ipynb - ANALYSIS & RESULTS
+a1936769_assignment1B.ipynb - ANALYSIS & RESULTS
 ---------------------------------
 • K-means clustering (83.33% accuracy)
 • Principal Component Analysis (80.9% variance explained)
