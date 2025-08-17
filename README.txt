@@ -1,7 +1,7 @@
 EEG Cognitive State Classification Project
 =========================================
 
-Assignment 1B: Big Data Analysis
+Assignment 1D: Big Data Analysis
 Student: Kshitij Desai (A1936769)
 Course: COMP SCI 7209 - Big Data Analysis
 
@@ -41,6 +41,12 @@ a1936769_assignment1B.ipynb - ANALYSIS & RESULTS
 • Feature importance analysis
 • Comprehensive visualizations (4-panel figure)
 • Results interpretation and discussion
+
+a1936769_assignment1C.ipynb - ML and Interpretability
+---------------------------------
+• Random Forest Model
+• Interpretability analysis
+• Results Discussion
 
 Key Results:
 ============
