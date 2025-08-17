@@ -67,3 +67,5 @@ Usage:
 ======
 1. Run a1936769_assignment1A.ipynb for data preprocessing
 2. Run a1936769_assignment1B.ipynb for analysis and results
+3. Run a1936769_assignment1C.ipynb for machine learning model and interpretation
+4. Run a1936769_assignment1D.ipynb for final report vizualization
